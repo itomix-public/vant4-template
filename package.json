@@ -11,7 +11,7 @@
   "dependencies": {
     "jquery": "^3.6.0",
     "lodash": "^4.17.21",
-    "moment": "^2.29.1",
+    "moment": "^2.29.2",
     "vant": "^4.0.0-alpha.0",
     "vue": "^3.2.31"
   },
